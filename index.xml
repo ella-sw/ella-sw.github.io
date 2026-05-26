@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Ella Blog</title>
+    <link>https://ella-sw.github.io/</link>
+    <description>Recent content on Ella Blog</description>
+    <generator>Hugo</generator>
+    <language>ko-kr</language>
+    <lastBuildDate>Tue, 26 May 2026 16:48:03 +0900</lastBuildDate>
+    <atom:link href="https://ella-sw.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>첫 글</title>
+      <link>https://ella-sw.github.io/posts/first/</link>
+      <pubDate>Tue, 26 May 2026 16:48:03 +0900</pubDate>
+      <guid>https://ella-sw.github.io/posts/first/</guid>
+      <description>&lt;p&gt;안녕하세요.
+내 첫 Hugo 블로그입니다.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
